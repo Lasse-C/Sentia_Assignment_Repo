@@ -13,3 +13,6 @@ figureing out and creaing the Web app and Database and making a Json file with i
 
 Wed. 27. Jan.
 Planning architecutal design and creating to do list and beginning on the draw.io architect plan.
+
+Tor. 28. Jan.
+Creating the environments i draw.io
