@@ -16,3 +16,14 @@ Planning architecutal design and creating to do list and beginning on the draw.i
 
 Tor. 28. Jan.
 Creating the environments i draw.io
+
+fri. 29. jan.
+finishing the architecture of the environments
+
+mon. 1. feb.
+start working on the migration plan for the company.
+
+tue. 2. feb.
+working and finshing the migration plan.
+
+a good assignment fun to do, i hope it is okay made. i decided to start the assignment make a mind map on how to do it showed in this log.
